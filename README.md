@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+Welcome to my github profile.
+I'm currently an engineering student at CESI Arras in France.
+I'm particularly interested in learning new things and using bleeding edge technologies.
+
+I also love Go and I'm learning it the best I can to perhaps get an intership.
+
+If you have any question or just want to discuss anything, feel free to contact me either on discord or twitter.
+
+Have a nice day
+
 <!--
 **Karitham/Karitham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
