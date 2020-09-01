@@ -1,7 +1,7 @@
-### Hi there 👋
+## Hey, welcome
 
-Welcome to my github profile.
 I'm currently an engineering student at CESI Arras in France.
+
 I'm particularly interested in learning new things and using bleeding edge technologies.
 
 ```go
