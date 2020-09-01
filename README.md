@@ -6,6 +6,8 @@ I'm particularly interested in learning new things and using bleeding edge techn
 
 ---
 
+<div>
+
 ```go
 func main() {
 	now := time.Now()
@@ -15,7 +17,5 @@ func main() {
 }
 ```
 
-<img align="left" alt="This little maneuver is gonna cost us 51 years" src="https://cdn.discordapp.com/attachments/712613316492787764/727099093087813722/Eaa-VaaXgAEctCR.png"/>
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Karitham&count_private=true&show_icons=true&hide_border=true"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karitham&layout=compact&card_width=250&hide_border=true"/>
+![This little maneuveur is gonna take us 51 years](https://camo.githubusercontent.com/90075001bded167d85498e696cd5f524452710b8/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3731323631333331363439323738373736342f3732373039393039333038373831333732322f4561612d56616158674145637443522e706e67)
+</div>
