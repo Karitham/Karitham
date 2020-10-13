@@ -2,6 +2,8 @@
 
 I'm an engineering student at CESI Arras in France.
 
+[<img alt="Discord" src="https://badges.genua.fr/discord/484051069379543041?label=DISCORD&style=for-the-badge">](https://discord.gg/57PhYQ8)
+
 ```go
 func main() {
 	now := time.Now()
